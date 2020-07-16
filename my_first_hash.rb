@@ -7,12 +7,13 @@ fruit = {
 end
 
 
-def shipping_manifest(the_manifest)
+def shipping_manifest(the_manifest={})
   the _manifest = {
     "whale bone corsets" => "5",
     "oil paintings" => "3",
     "porcelain vases" => "2"
   }
+  shipping_manifest
 end
 
 def retrieval
