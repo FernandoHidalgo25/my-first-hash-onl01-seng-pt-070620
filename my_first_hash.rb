@@ -7,7 +7,7 @@ fruit = {
 end
 
 
-def shipping_manifest
+def shipping_manifest(the_manifest)
   the _manifest = {
     "whale bone corsets" => "5",
     "oil paintings" => "3",
