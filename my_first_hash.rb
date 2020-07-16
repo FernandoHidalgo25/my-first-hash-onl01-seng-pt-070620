@@ -1,10 +1,8 @@
 def my_hash
-dictionary = {
- 
+fruit = {
   "apple" => "a delicious fruit",
-  "this readme" => "wonderful and informative piece of reading",
-  "Moby Dick" => "a novel by my good friend, Herman Melville"
- 
+  "banana" => "soft and yellow",
+  "orange" => "citrus and juicy"
 }
 
   
