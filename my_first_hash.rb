@@ -14,7 +14,6 @@ def shipping_manifest(the_manifest)
     "porcelain vases" => 2
   }
  end
- end
  
 def retrieval
   shipping_manifest = {
