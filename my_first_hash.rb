@@ -18,7 +18,7 @@ def shipping_manifest(the_manifest={})
 
  
 def retrieval
-  shipping_manifest = [3]
+  shipping_manifest = 3
 end
 
 def adding
