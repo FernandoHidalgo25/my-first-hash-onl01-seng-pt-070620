@@ -15,7 +15,7 @@ def shipping_manifest(the_manifest={})
   }
  end
  shipping_manifest
- end
+
  
 def retrieval
   shipping_manifest = {
