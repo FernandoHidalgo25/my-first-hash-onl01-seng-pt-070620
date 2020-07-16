@@ -4,8 +4,6 @@ fruit = {
   "banana" => "soft and yellow",
   "orange" => "citrus and juicy"
 }
-
-  
 end
 
 
@@ -14,10 +12,9 @@ def shipping_manifest
     "whale bone corsets" => "5",
     "oil paintings" => "3",
     "porcelain vases" => "2"
-   
   }
-
 end
+shipping_manifest
 
 def retrieval
   shipping_manifest = {
