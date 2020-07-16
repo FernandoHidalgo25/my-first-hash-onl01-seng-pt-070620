@@ -13,9 +13,10 @@ def shipping_manifest(the_manifest={})
     "oil paintings" => "3",
     "porcelain vases" => "2"
   }
-  shipping_manifest
-end
-
+ end
+ shipping_manifest
+ end
+ 
 def retrieval
   shipping_manifest = {
                   "whale bone corsets" => 5, 
